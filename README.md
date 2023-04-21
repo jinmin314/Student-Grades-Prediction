@@ -16,7 +16,7 @@ The objective for this mini-project is to find out the factors that could affect
 There can be many factors that affect a student's academic grades, such as his/her family background and lifestyle. By considering these factors, this mini-project may be significant in identifying weaker performing students so that additional help can be rendered to them early and help them score better grades.
 
 ## Summary
-For a walkthrough of the project, please view the [Jupyter notebook](**link to notebook**) in this repository.
+For a walkthrough of the project, please view the [Jupyter notebook](/student_grades_prediction.ipynb) in this repository.
 
 The following sections closely follows the notebook and summarises:
 1. Data Preprocessing: preparing of dataset for EDA
