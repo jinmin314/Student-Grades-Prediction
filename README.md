@@ -7,7 +7,7 @@ This mini-project is done for SC1015 (Introduction to Data Science and Artificia
 - Boonkitrungpaisarn Potala (U2222312E)
 
 ## Introduction
-The dataset used for this mini-project is taken from [Student Alcohol Consumption](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) dataset on Kaggle.
+The dataset used for this mini-project is taken from [Student Alcohol Consumption](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) dataset on Kaggle. There are two files: [student-mat.csv](/student-mat.csv) and [student-por.csv](/student-por.csv).
 
 ### Objective
 The objective for this mini-project is to find out the factors that could affect a student's grades, and thereafter try some machine learning techniques to see if we can predict a student's grade band given some student's data.
@@ -27,6 +27,7 @@ The following sections closely follows the notebook and summarises:
 6. Conclusion
 
 For detailed steps in each section, please view the notebook.
+A copy of the slides used for the video presentation is also included in this repository: [slides.pdf](/slides.pdf)
 
 ## References
 - Student Alcohol Consumption: https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
